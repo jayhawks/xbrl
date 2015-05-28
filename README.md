@@ -31,6 +31,9 @@
 * [RaptorXML](http://www.altova.com/raptorxml.html)
 * [XMLSpy](http://www.altova.com/xmlspy.html)
 
+## Example Projects
+* [SEC-XBRL Example](https://github.com/finlingua/xbrl-sec-example)
+
 
 ## Definitions
 * Taxonomy
