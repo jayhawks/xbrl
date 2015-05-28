@@ -34,6 +34,10 @@
   * Because, why not
 * [XBRL Core](http://sourceforge.net/projects/xbrlcore/)
   * Source and .jar with some neat looking features.  Looks like they are implementing the XBRL 2.1 spec, need to confirm.
+* [Arielle](http://arelle.org/)
+  * Open source & written in python
+  * Includes a validator
+  * [Arielle User Group](https://groups.google.com/forum/#!forum/arelle-users)
 
 ## Example Projects
 * [SEC-XBRL Example](https://github.com/finlingua/xbrl-sec-example)
