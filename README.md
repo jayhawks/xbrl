@@ -9,6 +9,8 @@
 * [XBRL Education](http://www.xbrleducation.com/edu/intro.htm)
 * [XBRL Fundamentals - Basic Intro](http://www.slideshare.net/irisbusiness/xbrl-fundamentals?next_slideshow=1)
 * [An Introduction to XBRL](https://www.xbrl.org/the-standard/what/an-introduction-to-xbrl/)
+* [28msec](http://28msec.github.io/xbrl-tutorial/gitbook/chap-BizQLTutorial-Introduction.html)
+* [Altova](http://www.altova.com/aot/online-training.html)
 
 ## Useful Articles
 * [XML.com](http://www.xml.com/pub/a/2004/03/10/xbrl.html)
