@@ -6,6 +6,7 @@
 * 
 
 ## Tutorial Resources
+* [An Integrator's Guide to Inline XBRL](https://www.xbrl.org/inlinexbrlextractortutorial/index.html)
 * [XBRL Education](http://www.xbrleducation.com/edu/intro.htm)
 * [XBRL Fundamentals - Basic Intro](http://www.slideshare.net/irisbusiness/xbrl-fundamentals?next_slideshow=1)
 * [An Introduction to XBRL](https://www.xbrl.org/the-standard/what/an-introduction-to-xbrl/)
