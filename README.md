@@ -3,7 +3,6 @@
 ## Documentation
 * [XBRL 2.1 Specification](http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html)
 * [XBRL 2.1 Conformance Suite 1.0](http://www.xbrl.org/2005/XBRL-CONF-CR1-2005-04-25.htm)
-* 
 
 ## Tutorial Resources
 * [An Integrator's Guide to Inline XBRL](https://www.xbrl.org/inlinexbrlextractortutorial/index.html)
@@ -14,6 +13,7 @@
 ## Useful Articles
 * [XML.com](http://www.xml.com/pub/a/2004/03/10/xbrl.html)
 * [Getting Started for Developers](https://www.xbrl.org/the-standard/how/getting-started-for-developers/)
+* [IFRS | XBRL Fundamentals](http://www.ifrs.org/xbrl/resources/Pages/Fundamentals.aspx)
 
 ## Components
 * XBRL Taxonomy is made up of
