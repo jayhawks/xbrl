@@ -33,7 +33,7 @@
 * [XMLSpy](http://www.altova.com/xmlspy.html)
   * Because, why not
 * [XBRL Core](http://sourceforge.net/projects/xbrlcore/)
-  * .jar with some neat looking features
+  * Source and .jar with some neat looking features.  Looks like they are implementing the XBRL 2.1 spec, need to confirm.
 
 ## Example Projects
 * [SEC-XBRL Example](https://github.com/finlingua/xbrl-sec-example)
