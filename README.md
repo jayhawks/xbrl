@@ -27,6 +27,11 @@
     * Basic Attributes
     * Relationship to other Elements and Info
 
+## Tools
+* [RaptorXML](http://www.altova.com/raptorxml.html)
+* [XMLSpy](http://www.altova.com/xmlspy.html)
+
+
 ## Definitions
 * Taxonomy
   * Systemic classification of business and financial terms
