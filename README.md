@@ -29,7 +29,11 @@
 
 ## Tools
 * [RaptorXML](http://www.altova.com/raptorxml.html)
+  * Server that can handle processing and such...costs $2k
 * [XMLSpy](http://www.altova.com/xmlspy.html)
+  * Because, why not
+* [XBRL Core](http://sourceforge.net/projects/xbrlcore/)
+  * .jar with some neat looking features
 
 ## Example Projects
 * [SEC-XBRL Example](https://github.com/finlingua/xbrl-sec-example)
