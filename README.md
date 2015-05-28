@@ -8,10 +8,11 @@
 ## Tutorial Resources
 * [XBRL Education](http://www.xbrleducation.com/edu/intro.htm)
 * [XBRL Fundamentals - Basic Intro](http://www.slideshare.net/irisbusiness/xbrl-fundamentals?next_slideshow=1)
+* [An Introduction to XBRL](https://www.xbrl.org/the-standard/what/an-introduction-to-xbrl/)
 
 ## Useful Articles
 * [XML.com](http://www.xml.com/pub/a/2004/03/10/xbrl.html)
-* 
+* [Getting Started for Developers](https://www.xbrl.org/the-standard/how/getting-started-for-developers/)
 
 ## Components
 * XBRL Taxonomy is made up of
